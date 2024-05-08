@@ -1,6 +1,6 @@
 # EDA-of-Coursera-courses
 ##Exploratory Data analysis on courses offered by Coursera
-This project includes an data analysis of the courses offered by Coursera. We have used an already available dataset from kaggle for this project, and matplotlib and pandas for analysis.
+This project includes a data analysis of the courses offered by Coursera. We have used an already available dataset from Kaggle for this project, and Matplotlib and pandas for analysis.
 
 ##Overview
 * loaded the dataset and displayed it
